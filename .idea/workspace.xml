@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e411ae0-d561-4d58-9997-88bad6bfb24f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairy/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairy/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairy/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairy/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/migrations/0002_auto_20181220_2335.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/migrations/0002_auto_20181220_2335.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/migrations/0003_auto_20181221_0041.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/migrations/0003_auto_20181221_0041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/migrations/0004_delete_feederproduct.py" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/migrations/0004_delete_feederproduct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/add-milk-products.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/add-milk-products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/milk-purchase.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/milk-purchase.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/operationcost-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/operationcost-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/operationcost.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/operationcost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/purchase-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/purchase-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/sales-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/sales-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/sell-milk-products.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/sell-milk-products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairyapp/templates/dairyapp/stock-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/dairyapp/templates/dairyapp/stock-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dairydb/dairy_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/dairydb/dairy_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.txt" beforeDir="false" afterPath="$PROJECT_DIR$/install.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/add_stock.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/operation_cost.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/purchase_milk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/purchase_report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/sell_products.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/images/ndp_bg_wave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/images/ndp_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/images/ndp_date_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/nepali.datepicker.v2.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/nepali.datepicker.v2.2.min.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HaZ9qw53GcFGuJ6SzBZZVxK6eC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Traffic-Fine-Application-development-using-python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e411ae0-d561-4d58-9997-88bad6bfb24f" name="Default Changelist" comment="" />
+      <created>1668525007536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668525007536</updated>
+    </task>
+    <servers />
+  </component>
+</project>
